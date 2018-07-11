@@ -1,5 +1,5 @@
-# AzureStorageTablesDemo
-Azure Demo Table
+# Azure Storage Tables Demo
+Get started with Azure Table storage  DB Table API using .NET
 
 1.Create a console app.
 2.Azure sdk to insatll which big and takes time.
